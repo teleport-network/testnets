@@ -1,2 +1,19 @@
 # testnets
-Teleport testnets repository
+
+## Instructions
+
+Follow the instructions on the official documentation to join the testnet and how to obtain tokens using the faucet.
+
+## Details
+
+- Network Chain ID: `evmos_8001-1`
+- EIP155 Chain ID: `8001`
+- `teleport` version: [`v0.1.0-alpha1`](https://github.com/teleport-network/teleport-releases/tree/main/binary/v0.1.0-alpha1)
+- Faucet: [](https://faucet.evmos.org)
+- EVM explorer: [](https://evm.evmos.org)
+- Cosmos explorer: [](https://explorer.evmos.org)
+
+## Seeds & Peers
+
+You can find seeds & peers on the [seeds.txt](./seeds.txt) and [peers.txt](./peers.txt) files, respectively. If you want to share your seed or peer, please fork this repo and and add it to the bottom of the corresponding `.txt` file.
+
