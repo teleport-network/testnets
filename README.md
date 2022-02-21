@@ -2,7 +2,18 @@
 
 ## Instructions
 
-Follow the instructions on the official documentation to join the testnet and how to obtain tokens using the faucet.
+Follow the instructions on the official documentation to [join the testnet](https://chain-docs.teleport.network/testnet/join.html) and how to obtain tokens using the [faucet](https://chain-docs.teleport.network/testnet/faucet.html).
+
+## Genesis File
+
+Download the genesis file [genesis.json](./genesis.json)
+
+Verify the SHA256 checksum using:
+
+```bash
+sha256sum genesis.json
+# 1f64ce5e7ffe5a817040d047aaeb0b77b7f1efea907ee12ac29bdd390aa9ca0c  genesis.json
+```
 
 ## Details
 
