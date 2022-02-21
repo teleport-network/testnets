@@ -9,9 +9,9 @@ Follow the instructions on the official documentation to join the testnet and ho
 - Network Chain ID: `evmos_8001-1`
 - EIP155 Chain ID: `8001`
 - `teleport` version: [`v0.1.0-alpha1`](https://github.com/teleport-network/teleport-releases/tree/main/binary/v0.1.0-alpha1)
-- Faucet: [](https://faucet.evmos.org)
-- EVM explorer: [](https://evm.evmos.org)
-- Cosmos explorer: [](https://explorer.evmos.org)
+- Faucet: [Faucet token](https://chain-docs.teleport.network/testnet/faucet.html)
+- EVM explorer: [evm-explorer.testnet.teleport.network](https://evm-explorer.testnet.teleport.network/)
+- Cosmos explorer: [explorer.testnet.teleport.network](https://explorer.testnet.teleport.network/#/teleport)
 
 ## Seeds & Peers
 

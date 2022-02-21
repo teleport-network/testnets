@@ -1,3 +1,1 @@
-c3e29aadc8790fa173f7b710a0e4ae95b4d07481@seed0.testnet.teleport.network:26656
-92a3156d6308451cf74c91bd0658e2f9d850cf48@seed1.testnet.teleport.network:26656
-2a60cb601e9f4a68f123ba791277fa1ddc3aad34@seed2.testnet.teleport.network:26656
+5bee9b3e440fa1bc3c16f6628c35e2f8fb717f56@seed0.testnet.teleport.network:26656
