@@ -17,7 +17,7 @@ sha256sum genesis.json
 
 ## Details
 
-- Network Chain ID: `evmos_8001-1`
+- Network Chain ID: `teleport_8001-1`
 - EIP155 Chain ID: `8001`
 - `teleport` version: [`v0.1.0-alpha1`](https://github.com/teleport-network/teleport-releases/tree/main/binary/v0.1.0-alpha1)
 - Faucet: [Faucet token](https://chain-docs.teleport.network/testnet/faucet.html)
