@@ -1,0 +1,3 @@
+5bee9b3e440fa1bc3c16f6628c35e2f8fb717f56@peer0.testnet.teleport.network:26656
+8ce57faece011b4439f5c3da1207aca7a2b046ab@peer1.testnet.teleport.network:26656
+ba272e113135737fdd02faf83f06ad5ba3edeadc@peer2.testnet.teleport.network:26656
