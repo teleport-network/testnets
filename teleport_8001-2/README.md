@@ -24,7 +24,26 @@ sha256sum genesis.json
 - EVM explorer: [evm-explorer.testnet.teleport.network](https://evm-explorer.testnet.teleport.network/)
 - Cosmos explorer: [explorer.testnet.teleport.network](https://explorer.testnet.teleport.network/#/teleport)
 
-## Seeds & Peers
+### Public Endpoints
+
+* EVM RPC Endpoints:
+https://evm-rpc.testnet.teleport.network
+https://evm-rpc0.testnet.teleport.network
+https://evm-rpc1.testnet.teleport.network
+https://evm-rpc2.testnet.teleport.network
+
+* Tendermint RPC Endpoints:
+https://rpc.testnet.teleport.network
+https://rpc0.testnet.teleport.network
+https://rpc1.testnet.teleport.network
+https://rpc2.testnet.teleport.network
+
+* gPRC Endpoints:
+grpc://grpc0.testnet.teleport.network:443
+grpc://grpc1.testnet.teleport.network:443
+grpc://grpc2.testnet.teleport.network:443
+
+### Seeds & Peers
 
 You can find seeds & peers on the [seeds.txt](./seeds.txt) and [peers.txt](./peers.txt) files, respectively. If you want to share your seed or peer, please fork this repo and and add it to the bottom of the corresponding `.txt` file.
 
