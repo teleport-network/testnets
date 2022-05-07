@@ -26,22 +26,25 @@ sha256sum genesis.json
 
 ### Public Endpoints
 
-* EVM RPC Endpoints:
-https://evm-rpc.testnet.teleport.network
-https://evm-rpc0.testnet.teleport.network
-https://evm-rpc1.testnet.teleport.network
-https://evm-rpc2.testnet.teleport.network
+**EVM RPC Endpoints:**
 
-* Tendermint RPC Endpoints:
-https://rpc.testnet.teleport.network
-https://rpc0.testnet.teleport.network
-https://rpc1.testnet.teleport.network
-https://rpc2.testnet.teleport.network
+* https://evm-rpc.testnet.teleport.network
+* https://evm-rpc0.testnet.teleport.network
+* https://evm-rpc1.testnet.teleport.network
+* https://evm-rpc2.testnet.teleport.network
 
-* gPRC Endpoints:
-grpc://grpc0.testnet.teleport.network:443
-grpc://grpc1.testnet.teleport.network:443
-grpc://grpc2.testnet.teleport.network:443
+**Tendermint RPC Endpoints:**
+
+* https://rpc.testnet.teleport.network
+* https://rpc0.testnet.teleport.network
+* https://rpc1.testnet.teleport.network
+* https://rpc2.testnet.teleport.network
+
+**gPRC Endpoints:**
+
+* grpc://grpc0.testnet.teleport.network:443
+* grpc://grpc1.testnet.teleport.network:443
+* grpc://grpc2.testnet.teleport.network:443
 
 ### Seeds & Peers
 
