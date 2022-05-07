@@ -24,7 +24,7 @@ sha256sum genesis.json
 - EVM explorer: [evm-explorer.testnet.teleport.network](https://evm-explorer.testnet.teleport.network/)
 - Cosmos explorer: [explorer.testnet.teleport.network](https://explorer.testnet.teleport.network/#/teleport)
 
-## Seeds & Peers
+### Seeds & Peers
 
 You can find seeds & peers on the [seeds.txt](./seeds.txt) and [peers.txt](./peers.txt) files, respectively. If you want to share your seed or peer, please fork this repo and and add it to the bottom of the corresponding `.txt` file.
 
